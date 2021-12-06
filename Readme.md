@@ -1,6 +1,6 @@
 ### Website Preview
 #### Home Page
-<img src="website_images/homepage1.png" width="900">
+<img src="website_images/Homepage1.PNG" width="900">
 
 #### Detail Page
 <img src="website_images/DetailPage.png" width="900">
